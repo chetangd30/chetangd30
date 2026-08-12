@@ -1,4 +1,4 @@
-Hi! My name is Chetan Daphedar
+Hi! This is Chetan Daphedar
 ========================================================================================================================================
 
 Data Scientist & AI Engineer
