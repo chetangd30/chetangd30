@@ -16,11 +16,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chetangd30)
 
 <br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=chetangd30&color=8b5cf6&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/chetangd30?color=7c3aed&style=flat-square&label=Followers)
-![Stars](https://img.shields.io/github/stars/chetangd30?color=6d28d9&style=flat-square&label=Stars)
-
 </div>
 
 <br/>
@@ -33,7 +28,7 @@ I approach engineering with a **product mindset** — from database design and A
 
 Currently expanding into **Generative AI** — LLMs, prompt engineering, RAG pipelines, and AI agent workflows — as a natural extension of a data-driven engineering approach.
 
-**🎯 Open To:** Data Science · Machine Learning Engineering · GenAI/LLM Engineering · Backend Engineering roles
+**🎯 Open To:** Data Science & Analyst · AIML & Automation · Python Full Stack Developer · GenAI/LLM Engineering · Backend Engineering roles 
 
 ---
 
@@ -43,26 +38,33 @@ Currently expanding into **Generative AI** — LLMs, prompt engineering, RAG pip
 
 **Languages**
 
-![Skills](https://skillicons.dev/icons?i=java,python,cpp,c,javascript&theme=dark)
+![Skills](https://skillicons.dev/icons?i=python,java,cpp,c&theme=dark)
 
-**Frontend**
-
-![Skills](https://skillicons.dev/icons?i=react,html,css,bootstrap,js&theme=dark)
-
-**Backend & Databases**
-
-![Skills](https://skillicons.dev/icons?i=spring,flask,django,mysql,postgres,mongodb&theme=dark)
-
-**Cloud, DevOps & Tooling**
-
+**Cloud & DevOps**
+ 
 ![Skills](https://skillicons.dev/icons?i=aws,docker,terraform,git,github,postman&theme=dark)
+ 
+**Web**
+ 
+![Skills](https://skillicons.dev/icons?i=html,css,js,react,bootstrap,django,php&theme=dark)
 
-**Data Visualization**
-
+**AI & GenAI**
+ 
+[![LLMs](https://img.shields.io/badge/LLMs-8B5CF6?style=flat-square)](#)
+[![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-7C3AED?style=flat-square)](#)
+[![RAG](https://img.shields.io/badge/RAG-6D28D9?style=flat-square)](#)
+[![AI Agents](https://img.shields.io/badge/AI%20Agents-4C1D95?style=flat-square)](#)
+[![OpenAI GPT](https://img.shields.io/badge/GPT-412991?style=flat-square&logo=openai&logoColor=white)](#)
+[![Claude APIs](https://img.shields.io/badge/Claude%20APIs-D97757?style=flat-square&logo=anthropic&logoColor=white)](#)
+ 
+**Data Visualization & Databases**
+ 
 [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)](#)
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)](#)
-[![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)](#)
 [![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)](#)
+[![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)](#)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](#)
+ 
 
 </div>
 
@@ -85,10 +87,9 @@ Currently expanding into **Generative AI** — LLMs, prompt engineering, RAG pip
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=chetangd30&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c9d1d9&count_private=true" width="49%" />
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=chetangd30&theme=radical&hide_border=true&background=0d1117&stroke=8b5cf6&ring=a78bfa&fire=7c3aed&currStreakLabel=a78bfa" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetangd30&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" width="49%" />
 
 </div>
 
