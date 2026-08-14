@@ -1,0 +1,21 @@
+<svg width="1200" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4C1D95"/>
+      <stop offset="50%" stop-color="#7C3AED"/>
+      <stop offset="100%" stop-color="#A78BFA"/>
+    </linearGradient>
+    <linearGradient id="waveGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.03"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="220" fill="url(#bgGrad)"/>
+
+  <path d="M0,170 C150,140 300,200 450,170 C600,140 750,200 900,170 C1050,140 1150,180 1200,165 L1200,220 L0,220 Z" fill="url(#waveGrad)"/>
+  <path d="M0,190 C200,160 400,210 600,190 C800,170 1000,210 1200,185 L1200,220 L0,220 Z" fill="#ffffff" fill-opacity="0.05"/>
+
+  <text x="600" y="98" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="46" font-weight="700" fill="#ffffff" text-anchor="middle">Chetan Daphedar</text>
+  <text x="600" y="138" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" fill="#E9D5FF" text-anchor="middle">Software Engineer | Data Science &amp; AI/ML Engineer</text>
+</svg>
