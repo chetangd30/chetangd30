@@ -24,11 +24,11 @@
 
 I'm a Data Science-focused engineering graduate with 1+ year of backend engineering experience, building predictive models and production-grade systems end to end. Comfortable moving across the stack — from statistical modeling and databases to cloud deployment and full-stack web development.
 
-I approach engineering with a **product mindset** — from database design and API architecture to model training and deployment, I care about shipping systems that work end-to-end, not just prototypes.
+I approach engineering with a **product mindset**, from database design and API architecture to model training and deployment, I care about shipping systems that work end-to-end, not just prototypes.
 
-Currently expanding into **Generative AI** — LLMs, prompt engineering, RAG pipelines, and AI agent workflows — as a natural extension of a data-driven engineering approach.
+Currently expanding into **AI Agents & LLM**, prompt engineering, RAG pipelines, and AI agent workflows — as a natural extension of a data-driven engineering approach.
 
-**🎯 Open To:** Data Science & Analyst · AIML & Automation · Python Full Stack Developer · GenAI/LLM Engineering · Backend Engineering roles 
+**🎯 Open To:** Data Science & Analyst · AIML & Automation · Python Full Stack · GenAI/LLM Engineering · Backend Engineering roles 
 
 ---
 
