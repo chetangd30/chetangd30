@@ -103,6 +103,14 @@ Currently expanding into **Generative AI** — LLMs, prompt engineering, RAG pip
 
 </div>
 
+## Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/chetangd30/chetangd30/output/github-contribution-grid-snake.svg)
+
+</div>
+
 ---
 
 <div align="center">
