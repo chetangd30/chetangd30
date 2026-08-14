@@ -3,8 +3,6 @@
 ![Header](./header.svg)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=70&lines=Data+Science+%26+AI%2FML+Engineer;LLMs+%7C+RAG+%7C+AI+Agents" alt="Typing SVG" />
-
-
 <br/><br/>
 
 [![B.E. Electronics & Communication](https://img.shields.io/badge/B.E.-Electronics%20%26%20Communication-6D28D9?style=flat-square&logo=googlescholar&logoColor=white)](#)
