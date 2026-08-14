@@ -6,27 +6,18 @@
 <br/><br/>
 
 [![B.E. Electronics & Communication](https://img.shields.io/badge/B.E.-Electronics%20%26%20Communication-6D28D9?style=flat-square&logo=googlescholar&logoColor=white)](#)
-[![Location](https://img.shields.io/badge/Location-Bangalore%2C%20India-4C1D95?style=flat-square&logo=googlemaps&logoColor=white)](#)
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://chetan-daphedar.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chetan-daphedar-56a15827a)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chetangdaphedar@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chetangd30)
+[![](https://img.shields.io/badge/Bangalore%2C%20India-4C1D95?style=flat-square&logo=googlemaps&logoColor=white)](#)
 
 <br/>
 </div>
 
-<br/>
-
 ## About Me
 
-I'm a Data Science-focused engineering graduate with 1+ year of backend engineering experience, building predictive models and production-grade systems end to end. Comfortable moving across the stack — from statistical modeling and databases to cloud deployment and full-stack web development.
+I'm a Data Science-focused engineering graduate with 1+ year of backend engineering experience, building predictive models and production-grade systems end to end. Comfortable moving across the stack, from statistical modeling and databases to cloud deployment and full-stack web development.
 
 I approach engineering with a **product mindset**, from database design and API architecture to model training and deployment, I care about shipping systems that work end-to-end, not just prototypes.
 
-Currently expanding into **AI Agents & LLM**, prompt engineering, RAG pipelines, and AI agent workflows — as a natural extension of a data-driven engineering approach.
+Currently expanding into **AI Agents & LLM**, prompt engineering, RAG pipelines, and AI agent workflows. As a natural extension of a data-driven engineering approach.
 
 **🎯 Open To:** Data Science & Analyst · AIML & Automation · Python Full Stack · GenAI/LLM Engineering · Backend Engineering roles 
 
@@ -111,6 +102,15 @@ Currently expanding into **AI Agents & LLM**, prompt engineering, RAG pipelines,
 
 </div>
 
+## Contact me
+<div align="center">
+ 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://chetan-daphedar.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chetan-daphedar-56a15827a)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chetangdaphedar@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chetangd30)
+
+</div>
 ---
 
 <div align="center">
