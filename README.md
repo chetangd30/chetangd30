@@ -85,14 +85,6 @@ Currently expanding into **AI Agents & LLM**, prompt engineering, RAG pipelines,
 
 ---
 
-## GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=chetangd30&theme=radical&no-frame=true&no-bg=true&margin-w=12&column=7)
-
-</div>
-
 
 ## Contribution Activity
 
