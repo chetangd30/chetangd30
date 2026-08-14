@@ -316,6 +316,6 @@ current_focus:
 
 *"Engineering is the art of turning data into decisions, and decisions into systems that work."*
 
-![Footer](./assets/footer.svg)
+![Footer](./footer.svg)
 
 </div>
