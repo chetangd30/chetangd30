@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](./assets/header.svg)
+![Header](./header.svg)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Backend+Engineer+%7C+Java+%2F+Spring+Boot;Data+Science+%26+Machine+Learning+Engineer;GenAI+%7C+LLMs+%7C+RAG+%7C+AI+Agents;Building+production-grade%2C+data-driven+systems" alt="Typing SVG" />
 
