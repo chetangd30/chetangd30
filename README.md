@@ -109,12 +109,17 @@ Currently expanding into **AI Agents & LLM**, prompt engineering, RAG pipelines,
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chetan-daphedar-56a15827a)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chetangdaphedar@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chetangd30)
-
+<br/>
 </div>
+
+
 ---
+
 
 <div align="center">
 
 *"Engineering is the art of turning data into decisions, and decisions into systems that work."*
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
 
 </div>
