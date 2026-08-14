@@ -8,7 +8,6 @@
 [![B.E. Electronics & Communication](https://img.shields.io/badge/B.E.-Electronics%20%26%20Communication-6D28D9?style=flat-square&logo=googlescholar&logoColor=white)](#)
 [![](https://img.shields.io/badge/Bangalore%2C%20India-4C1D95?style=flat-square&logo=googlemaps&logoColor=white)](#)
 
-<br/>
 </div>
 
 ## About Me
