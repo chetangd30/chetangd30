@@ -76,15 +76,11 @@ Currently expanding into **AI Agents & LLM**, prompt engineering, RAG pipelines,
 ## GitHub Analytics
 
 <div align="center">
-
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=chetangd30&theme=radical&hide_border=true&background=0d1117&stroke=8b5cf6&ring=a78bfa&fire=7c3aed&currStreakLabel=a78bfa" width="49%" />
-
-
+ 
 </div>
 
 ---
-
 
 ## Contribution Activity
 
