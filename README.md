@@ -72,7 +72,7 @@ Currently expanding into **AI Agents & LLM**, prompt engineering, RAG pipelines,
 </div>
 
 ---
-
+<!--
 ## GitHub Analytics
 
 <div align="center">
@@ -81,7 +81,7 @@ Currently expanding into **AI Agents & LLM**, prompt engineering, RAG pipelines,
 </div>
 
 ---
-
+-->
 ## Contribution Activity
 
 <div align="center">
