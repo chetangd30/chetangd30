@@ -12,7 +12,7 @@
 
 ## About Me
 
-I'm a Data Science-focused engineering graduate with 1+ year of backend engineering experience, building predictive models and production-grade systems end to end. Comfortable moving across the stack, from statistical modeling and databases to cloud deployment and full-stack web development.
+I'm a Data Science-focused engineering graduate with backend engineering experience, building predictive models and production-grade systems end to end. Comfortable moving across the stack, from statistical modeling and databases to cloud deployment and full-stack web development.
 
 I approach engineering with a **product mindset**, from database design and API architecture to model training and deployment, I care about shipping systems that work end-to-end, not just prototypes.
 
