@@ -81,7 +81,7 @@ Currently expanding into **AI Agents & LLM**, prompt engineering, RAG pipelines,
 </div>
 
 ---
-
+<!--
 ## Contribution Activity
 
 <div align="center">
@@ -89,7 +89,7 @@ Currently expanding into **AI Agents & LLM**, prompt engineering, RAG pipelines,
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chetangd30&theme=react-dark&hide_border=true&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=c9d1d9)
 
 </div>
-
+-->
 ## Contribution Snake
 
 <div align="center">
